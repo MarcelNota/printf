@@ -3,7 +3,7 @@
 /* printing the number unsigned */
 /**
  * print_unsigned - displays the number
- * @types: arguments
+ * @types: arguments in displayed code
  * @buffer: the array
  * @flags: flags
  * @width: the widht
