@@ -3,7 +3,7 @@
 /**
  * get_precision - displays the calculation of a precision
  * @format: the string
- * @i: arguments list
+ * @i: arguments listed
  * @list: arguments list
  * Return: the precision
  */
