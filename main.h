@@ -19,7 +19,7 @@
 #define S_SHORT 1
 
 /**
- * struct fmt - the structure
+ * struct fmt - the structure of it
  *
  * @fmt: format
  * @fn: function
