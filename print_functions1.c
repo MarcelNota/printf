@@ -6,7 +6,7 @@
  * @types: arguments in displayed code
  * @buffer: the array
  * @flags: flags
- * @width: the widht
+ * @width: the width
  * @precision: the precision
  * @size: the size
  * Return: chars
