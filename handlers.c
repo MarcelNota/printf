@@ -5,7 +5,7 @@
  * handle_write_char - string being displayed
  * @c: the char
  * @buffer: the buffer
- * @flags: the flag
+ * @flags: the flags
  * @width: the widht
  * @precision: the precision
  * @size: the size
