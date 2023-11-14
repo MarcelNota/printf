@@ -22,7 +22,7 @@ int print_char(va_list types, char buffer[],
 /* printing string */
 /**
  * print_string - displays string
- * @types: arguments
+ * @types: arguments in displayed code
  * @buffer: array
  * @flags: flags
  * @width: width
