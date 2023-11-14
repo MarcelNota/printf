@@ -5,7 +5,7 @@
  * @list: arguments list to be displayed
  * @ind: index
  * @buffer: the array buffer
- * @flags: flags
+ * @flags: flags displayed
  * @width: the width
  * @precision: the precision
  * @size: the size
