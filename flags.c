@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_flags - displays the flags on it
+ * get_flags - display the flags on it so that it goes with the wind right
  * @format: displays the string formated
  * @i: is the parameter
  * Return: flag
